@@ -6,6 +6,6 @@ next we have to benefit from a Python IDE , in this case, we used Spyder which i
 
 In the b.sumocfg  , there is a section that is related to required files location such as  b.sumocfg. b.net.xml and b.rou.xml .
 
-after set these files location in the b.sumocfg file we are able t run the simulation.
+after set these files location in the b.sumocfg file we are able to run the simulation.
 
 -
